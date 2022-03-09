@@ -1,3 +1,5 @@
+package implementationsAndInterface;
+
 import java.util.regex.Pattern;
 
 public class EmailValidatorImpl implements MyValidator {
